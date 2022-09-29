@@ -1,5 +1,5 @@
 <h1><p align="center">
-  Sentinel Home Lab  <p align="left"><img src="https://user-images.githubusercontent.com/114441952/192993162-fc2167fe-9ed8-4a51-b142-65a005c726c0.png" width="200"></h1>
+  Azure Sentinel Home Lab  <p align="left"><img src="https://user-images.githubusercontent.com/114441952/192993162-fc2167fe-9ed8-4a51-b142-65a005c726c0.png" width="200"></h1>
 
 <h2>Description</h2>
 In this project, I used Azure Sentinel (SIEM) to connect it to a live virtual machine and made this machine very vulnerable by turning off all firewalls, a basic honeypot. I then ran a Powershell script to inspect the Windows Event Log information for failed RDP attacks, which used ipgeolocation.io (a third-party API) to harvest the geographic information of attackers IP address, and plotted the attacker's geolocation information on an Azure Sentinel Map.
