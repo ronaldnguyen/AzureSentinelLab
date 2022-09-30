@@ -47,5 +47,5 @@ Ran a Sentinel Map Query to return results from Log Analytics to plot the attack
 
 <p align="center">
 Live map one day later: <br>
-<img src="" height="80%" width="80%" alt=""/>
+<img src="https://user-images.githubusercontent.com/114441952/193191385-652bae15-915a-42b0-975b-7b24368d4e8c.png" height="80%" width="80%" alt=""/>
 </p>
